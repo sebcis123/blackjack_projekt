@@ -1,0 +1,5 @@
+C:/Users/User/Desktop/Blackjack_projekt/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Blackjack_projekt/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/Blackjack_projekt/out/build/x64-debug/Blackjack_projekt/CMakeFiles/Blackjack_projekt.dir
+C:/Users/User/Desktop/Blackjack_projekt/out/build/x64-debug/Blackjack_projekt/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Blackjack_projekt/out/build/x64-debug/Blackjack_projekt/CMakeFiles/rebuild_cache.dir
